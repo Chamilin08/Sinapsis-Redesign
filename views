@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sinapsis - Login</title>
+    <link rel="stylesheet" href="../css/estilos.css">
+</head>
+<body>
+    <div class="login-container">
+        <h2>Iniciar sesión</h2>
+        <input type="text" placeholder="Usuario">
+        <input type="password" placeholder="Contraseña">
+        <button>Entrar</button>
+    </div>
+</body>
+</html>
